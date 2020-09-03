@@ -1,9 +1,10 @@
 This is regardng git hub practice.
 "hello world"
 today is revise sesssion on github.
-Local:
-new branch added to repo
-restore all changes in working directory
-Remote:
+<<<<<<< Updated upstream
 before doing work we have to sync remote and local commit
 After changes done check commit id of local and remote
+=======
+new branch added to repo
+restore all changes in working directory
+>>>>>>> Stashed changes
